@@ -1,0 +1,9 @@
+/data/
+lightning_logs
+/results/
+/lightning_logs/
+/code/results/
+/.conda/
+/model/
+readme.md
+requirements.txt
